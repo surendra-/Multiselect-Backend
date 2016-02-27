@@ -1,0 +1,9 @@
+{
+  "firebase": "surendra-app-server",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
